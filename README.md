@@ -10,6 +10,7 @@
 [![PySide6](https://img.shields.io/badge/UI-PySide6-41CD52.svg)](https://doc.qt.io/qtforpython/)
 [![Whisper](https://img.shields.io/badge/speech--to--text-Whisper-orange.svg)](https://github.com/SYSTRAN/faster-whisper)
 [![GitHub release](https://img.shields.io/github/v/release/vlad-ir/TranscribeIt?include_prereleases&sort=semver)](https://github.com/vlad-ir/TranscribeIt/releases)
+[![Downloads](https://img.shields.io/github/downloads/vlad-ir/TranscribeIt/total?style=flat-square)](https://github.com/vlad-ir/TranscribeIt/releases)
 
 ![TranscribeIt interface](screenshot.png)
 
